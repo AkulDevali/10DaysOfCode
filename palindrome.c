@@ -11,6 +11,6 @@ int main()
             return 0;
         }
     }
-    printf("Palindrome");
+    printf("Palindrome ");
     return 0;
 }
